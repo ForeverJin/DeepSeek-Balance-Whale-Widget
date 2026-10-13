@@ -24,6 +24,7 @@
 | `bubble-money1.gif` | 内置泡泡图（余额预警默认内容的配图）。 |
 | `Ya1.mp3` / `Ya2.mp3`、`D1.mp3` / `D2.mp3` | 内置音效（按压 / 松开）。 |
 | `minecraft-exp-orb.wav`、`task-end-a.wav` | 内置任务结束音（Minecraft·经验球 / 预设 A）。 |
+| `live2d/VIP nono/`（Cubism Live2D 模型：`.moc3`、4096 贴图、物理、9 个动作 `motion/`、开机/关机音效 `music/`） | **维护者提供**的桌宠模型素材，按 as-is 随仓库收录（2026-10 起，**插件代码尚未接入**，仅为保存素材与后续开发）。沿用原文件名（含空格）；贴图已核验仅含 `IHDR/IDAT/IEND` 块。 |
 
 ## 三、元数据清理
 
